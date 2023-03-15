@@ -15,16 +15,3 @@ else {
     }
 }
 
-function leap(){
-    var yearr=document.getElementById("year").textContent;
-
-    if(yearr <= 0){
-        alert("Year must be above 0.");
-    }
-    else if(yearr % 4 == 0 && yearr % 100 !=0){
-        document.getElementById("result").textContent=("a leap!");
-    }
-    else {
-        document.getElementById("result").textContent=("its not a leap year")
-    }
-}
