@@ -32,4 +32,6 @@
     width: 166px;
     height: 20px;
   } 
-  
+  #check:hover {
+     font-weight: bold;	
+    }
