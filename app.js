@@ -15,3 +15,8 @@ else {
     }
 }
 
+function leap(){
+    var yearr=document.getElementById("year").textContent;
+
+ 
+}
