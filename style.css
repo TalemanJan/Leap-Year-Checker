@@ -21,3 +21,15 @@
     left:35%;
     background-color: #cec;
   }
+  #result {
+    position: relative;
+    left: 119px;
+    text-align: left;
+    padding-left: 5px;
+    margin-left: 5px;
+    border: solid #c9c5c5 2px;
+    background: #fff;
+    width: 166px;
+    height: 20px;
+  } 
+  
